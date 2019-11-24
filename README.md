@@ -1,4 +1,4 @@
 # hello-world
-initial test work
+initial test
 
 This is to excercise how commit works in a new branche, readme-edits
